@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_976040_ns_clock_now_scale_time_worked">x_976040_ns_clock_now_scale_time_worked</category>
+        <maximum_digits>7</maximum_digits>
+        <number>0</number>
+        <prefix>TIMEWORKED</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-09 12:35:15</sys_created_on>
+        <sys_id>e6afd79447612110250dfa37536d430d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>TIMEWORKED</sys_name>
+        <sys_package display_value="NowScale Time Clock" source="x_976040_ns_clock">077c9b1047212110250dfa37536d43cc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NowScale Time Clock">077c9b1047212110250dfa37536d43cc</sys_scope>
+        <sys_update_name>sys_number_e6afd79447612110250dfa37536d430d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-09 13:36:02</sys_updated_on>
+    </sys_number>
+</record_update>

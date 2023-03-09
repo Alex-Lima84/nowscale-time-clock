@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="898dd31447612110250dfa37536d4387" extends="task" label="Now Scale Task" max_length="40" name="x_976040_ns_clock_now_scale_task" type="collection"/>
+</database>
